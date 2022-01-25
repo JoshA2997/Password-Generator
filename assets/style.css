@@ -13,6 +13,8 @@ body,
 }
 
 body {
+    text-align: center;
+    background-size: auto;
   font-family: sans-serif;
   background-color: #f9fbfd;
 }
