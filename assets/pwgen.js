@@ -43,7 +43,7 @@ function generatePassword(){
     }
 
     //Random characters to meet pw length out of selected criteria
-    for (let i = 0; length: i++){
+    for (let i = 0; length; i++){
         password += character[Math.floor(Math.random () * character.length)];
     }
     return password;
